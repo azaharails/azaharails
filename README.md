@@ -2,7 +2,6 @@
 
 Backend dev who enjoys building things that actually work in production.
 
----
 
 ## 🚀 What I do
 
@@ -11,14 +10,13 @@ Backend dev who enjoys building things that actually work in production.
 - Deal with real-world problems: performance, scaling, production issues
 - Currently playing around with AI features in a startup
 
----
 
 ## 🛠 Tech I use
 
 PHP · Laravel · MySQL · Redis  
 APIs · Backend systems · Cloud · CI/CD  
 
----
+
 
 ## 🌍 Elsewhere
 
