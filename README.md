@@ -1,16 +1,26 @@
-## Hi there 👋
+## 👋 Hey, I'm Azahara
 
-<!--
-**azaharails/azaharails** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend dev who enjoys building things that actually work in production.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I do
+
+- Build backend systems from scratch
+- Work on SaaS products (payments, multi-tenant, all the fun stuff)
+- Deal with real-world problems: performance, scaling, production issues
+- Currently playing around with AI features in a startup
+
+---
+
+## 🛠 Tech I use
+
+PHP · Laravel · MySQL · Redis  
+APIs · Backend systems · Cloud · CI/CD  
+
+---
+
+## 🌍 Elsewhere
+
+- LinkedIn: www.linkedin.com/in/azahara-lucas-sánchez-7932b511b
+- Personal website: https://azaharails.es/
